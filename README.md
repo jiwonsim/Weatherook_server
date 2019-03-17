@@ -3,7 +3,7 @@ __날씨에 패션을 입히다__
 
 SNS를 활용한 날씨 기반 코디 추천 서비스 
 
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/28748103/54484065-f3e02b80-48a1-11e9-9ad3-f47bbabce3f1.png" width="200px"></img>
 </p>
 
